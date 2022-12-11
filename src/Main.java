@@ -1,9 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println("Hello world!");
-=======
-
         //Set all variables first
         String firstName = "Kirtan"; //Local
         String surName = "Jagdish"; //Local
@@ -25,6 +22,5 @@ public class Main {
         System.out.println("Place of Birth: " + placeOfBirth);
         System.out.println("Languages: " +languages);
         System.out.println("Hobbies: " +hobbies);
->>>>>>> ec38fa3 (Second Commit)
     }
 }
